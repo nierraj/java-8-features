@@ -1,4 +1,4 @@
-package com.dates.examples;
+package com.features.dates.examples;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;

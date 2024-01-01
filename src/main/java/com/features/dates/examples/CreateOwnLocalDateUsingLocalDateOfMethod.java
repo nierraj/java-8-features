@@ -1,4 +1,4 @@
-package com.dates.examples;
+package com.features.dates.examples;
 
 import java.time.LocalDate;
 import java.time.Month;
